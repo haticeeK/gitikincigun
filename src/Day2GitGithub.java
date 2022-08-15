@@ -15,6 +15,7 @@ public class Day2GitGithub {
     NOT: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim için sadece
     git push kullanırız
     Not: Github ogrendim
+    Not: Github cok eglenceli
     /*
 
 }
