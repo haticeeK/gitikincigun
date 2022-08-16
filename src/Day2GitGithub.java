@@ -18,4 +18,6 @@ public class Day2GitGithub {
     Not: Github cok eglenceli
     /*
 
+
+     */
 }
